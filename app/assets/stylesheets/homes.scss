@@ -50,3 +50,32 @@ li {
   font-size: 20px;
   color: #FAFAFA;
 }
+
+.portfolio {
+  width: 100%;
+  background-color: #ECEFF1;
+}
+
+.portfolio-title {
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 90px;
+  font-size: 32px;
+  color: #000000;
+}
+
+.border {
+  width: 70px;
+  margin: 0 auto;
+  text-align: center;
+  border-bottom: 3px solid #EC715F;
+  padding-top: 8px;
+}
+
+.portfolio-text {
+  margin: 0 auto;
+  text-align: center;
+  padding: 30px 0 30px 0;
+  font-size: 16px;
+  color: #000000;
+}

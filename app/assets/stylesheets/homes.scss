@@ -79,3 +79,60 @@ li {
   font-size: 16px;
   color: #000000;
 }
+
+.portfolio-group {
+  width: 920px;
+  margin: 0 auto;
+  padding-bottom: 90px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box-1 {
+  width: 300px;
+  height: 250px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  background-image: url("sketch.jpg");
+  background-size: cover;
+}
+
+.box-2 {
+  width: 300px;
+  height: 250px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  background-image: url("websuku.png");
+  background-size: cover;
+}
+
+.box-3 {
+  width: 300px;
+  height: 250px;
+  margin-bottom: 10px;
+  background-image: url("write.jpg");
+  background-size: cover;
+}
+
+.box-4 {
+  width: 300px;
+  height: 250px;
+  margin-right: 10px;
+  background-image: url("webcamp.png");
+  background-size: cover;
+}
+
+.box-5 {
+  width: 300px;
+  height: 250px;
+  margin-right: 10px;
+  background-image: url("talk.jpg");
+  background-size: cover;
+}
+
+.box-6 {
+  width: 300px;
+  height: 250px;
+  background-image: url("webcamp-mother.png");
+  background-size: cover;
+}

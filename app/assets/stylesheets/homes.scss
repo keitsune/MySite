@@ -186,7 +186,35 @@ li {
   width: 320px;
 }
 
+.profile {
+  width: 100%;
+  background-color: #ECEFF1;
+}
+
 .profile-title {
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 90px;
+  font-size: 32px;
+  color: #000000;
+}
+
+.profile-group {
+  width: 920px;
+  margin: 0 auto;
+  padding-bottom: 90px;
+  display: flex;
+}
+
+.profile-box-1 {
+  width: 50%;
+}
+
+.profile-box-2 {
+  width: 50%;
+}
+
+.contact-title {
   margin: 0 auto;
   text-align: center;
   padding-top: 90px;
